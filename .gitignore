@@ -1,0 +1,8 @@
+# Build-ul Maven de la radacina proiectului (nu cel din shift-engine/, acela are gitignore propriu)
+/target/
+
+# Setarile locale ale IntelliJ IDEA - sunt personale, nu trebuie partajate
+/.idea/
+
+# Fisiere de log, daca apar
+*.log
